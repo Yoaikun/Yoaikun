@@ -23,13 +23,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: joeyalan50@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="google-gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/joey-kun-932111272/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.youtube.com/@joey-kun-6220/videos">
-      <img width="35" src="youtube.svg">
+      <img width="35" src="youtube-svgrepo-com.svg">
     </a>
     <a href = "https://www.instagram.com/joeyalan_/">
       <img width="25" src="instagram.png">
