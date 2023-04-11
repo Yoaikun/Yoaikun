@@ -26,13 +26,13 @@
       <img width="30" src="google-gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/joey-kun-932111272/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="LinkedIn-Icon-Logo.wine.svg">
     </a>
     <a href = "https://www.youtube.com/@joey-kun-6220/videos">
       <img width="35" src="youtube-svgrepo-com.svg">
     </a>
     <a href = "https://www.instagram.com/joeyalan_/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="Instagram_logo_2016.svg.webp">
     </a>
 </div>
   
